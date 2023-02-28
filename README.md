@@ -1,7 +1,7 @@
 ## 📸 LAB8OITO
 ----------------------
 <br>
-<p align="justify">This is a project I'm studying (by now) for a friend's analogic photo's company. 
+<p align="justify">This is a project I'm studying (by now) for a friend's analogic photo's business. 
 <br>
 I'm using JS, Git/Github, Node.js, Vscode till now. Packages: Express, Nodemon, cors, Mongoose.
 <br><br>
